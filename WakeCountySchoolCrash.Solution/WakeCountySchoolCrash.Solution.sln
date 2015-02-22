@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WakeCountySchoolCrash", "WakeCountySchoolCrash\WakeCountySchoolCrash.fsproj", "{129B4D15-49B3-489E-BAFC-B5C29CE7AD25}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "json", "json", "{D229C6AA-17DD-44F5-BABC-AC6BE2C76E63}"
+	ProjectSection(SolutionItems) = preProject
+		json\geocode.json = json\geocode.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
