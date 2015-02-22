@@ -10,6 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "json", "json", "{D229C6AA-1
 		json\geocode.json = json\geocode.json
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{BE19610B-E685-4210-A5FE-576279B58E64}"
+	ProjectSection(SolutionItems) = preProject
+		html\elementarySchools.html = html\elementarySchools.html
+		html\highSchools.html = html\highSchools.html
+		html\middleSchools.html = html\middleSchools.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
