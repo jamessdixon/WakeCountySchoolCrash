@@ -17,6 +17,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{BE19610B-E
 		html\middleSchools.html = html\middleSchools.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{67E0995B-F342-4ED0-9264-75A59D3FDA4A}"
+	ProjectSection(SolutionItems) = preProject
+		data\schoolInformation.json = data\schoolInformation.json
+		data\WakeCountySchoolInfo.txt = data\WakeCountySchoolInfo.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
