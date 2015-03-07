@@ -28,13 +28,14 @@ let getCrashSiteLatLong(crashSite: CrashSite)=
 
 //getCrashSiteLatLong {roadA="I 440";roadB="Wake Forest Road";city="Raleigh"}
 
+let filePath = @"C:\data\GeoCodeCrashSite.csv"
+
 let trafficCrashes' = trafficCrashes.Rows 
                         |> Seq.map(fun tc -> {roadA=tc.Road;roadB=tc.FromRoad;city=tc.Municipality;date=tc.Date;time=tc.Time;severity=tc.Severity})
                         |> Seq.map(fun cs -> cs, getCrashSiteLatLong(cs))
-                        |> Seq.map(fun (cs,latLong) -> match latLong.IsSome with
-                                                        | true -> Some {date=cs.date;time=cs.time;severity=cs.severity;latitude=fst(latLong.Value);longitude=snd(latLong.Value)}
-                                                        | false -> None)
-                        |>Seq.toArray
+                        |> Seq.filter(fun (cs,latLong) -> latLong.IsSome = true)
+                        |> Seq.map(fun (cs,latLong) -> cs.date.ToShortDateString() + "," + cs.time.ToShortTimeString() + "," + cs.severity + "," + (fst latLong.Value).ToString() + "," + (snd latLong.Value).ToString() + Environment.NewLine)
+                        |> Seq.iter(fun (s) -> File.AppendAllText(filePath, s))
 
 
 

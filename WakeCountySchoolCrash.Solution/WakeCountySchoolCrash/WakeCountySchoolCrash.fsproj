@@ -51,10 +51,9 @@
   <ItemGroup>
     <None Include="ScreenScrapeIndividualSchools.fsx" />
     <None Include="CleanIndividualSchools.fsx" />
-    <None Include="GeoLocationSchools.fsx" />
+    <None Include="GeoLocateSchools.fsx" />
     <None Include="GeolocateCrashData.fsx" />
     <None Include="ScreenScrapeSchoolList.fsx" />
-    <None Include="GeoLocationSchoolList.fsx" />
     <Content Include="packages.config" />
     <Content Include="app.config" />
   </ItemGroup>
