@@ -19,7 +19,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{BE19610B-E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{67E0995B-F342-4ED0-9264-75A59D3FDA4A}"
 	ProjectSection(SolutionItems) = preProject
+		data\cleanedSchoolInformation.json = data\cleanedSchoolInformation.json
+		data\geolocatedSchoolInformation.json = data\geolocatedSchoolInformation.json
 		data\schoolInformation.json = data\schoolInformation.json
+		data\TrafficCrashData.csv = data\TrafficCrashData.csv
+		data\TrafficStopData.csv = data\TrafficStopData.csv
 		data\WakeCountySchoolInfo.txt = data\WakeCountySchoolInfo.txt
 	EndProjectSection
 EndProject

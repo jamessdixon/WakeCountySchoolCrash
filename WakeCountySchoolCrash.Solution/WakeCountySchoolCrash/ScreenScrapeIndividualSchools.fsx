@@ -55,6 +55,8 @@ let writeSchoolInformationToDisk(schoolInformation: option<JsonValue>) =
     | true -> File.AppendAllText(@"C:\Data\schoolInformation.json",schoolInformation.Value.ToString() + "," )
     | false -> ()
 
+File.AppendAllText(@"C:\Data\schoolInformation.json","[" )
 schoolInformation |> Seq.map(fun si -> createSchoolInformationJson(si))
-                  |> Seq.iter(fun jv -> writeSchoolInformationToDisk(jv))  
+                  |> Seq.iter(fun jv -> writeSchoolInformationToDisk(jv))
+File.AppendAllText(@"C:\Data\schoolInformation.json","]" )
 

@@ -1,0 +1,2042 @@
+[
+    {
+        "schoolCode": "304",
+        "address": "805 Cary Towne Blvd., Cary, NC 27511",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "307",
+        "address": "11555 Green Level Church Road, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "308",
+        "address": "700 Tingen Road, Apex, NC 27502",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "320",
+        "address": "1605 Aversboro Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "326",
+        "address": "9425 Baileywick Road, Raleigh, NC 27615",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "327",
+        "address": "1651 North McLaurin Lane, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "325",
+        "address": "10225 Chambers Road, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "329",
+        "address": "E-mail - barwell@wcpss.net",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "328",
+        "address": "400 Hunter Street, Apex, NC 27502",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "334",
+        "address": "2001 Brassfield Road, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "336",
+        "address": "3426 Ingram Drive, Raleigh, NC 27604",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "340",
+        "address": "1220 Pond Street, Cary, NC 27511",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "342",
+        "address": "9801 Brier Creek Parkway, Raleigh, NC 27617",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "344",
+        "address": "700 Northbrook Drive, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "352",
+        "address": "825 Cooper Road, Raleigh, NC 27610",
+        "startTime": "9:10 AM",
+        "endTime": "3:40 PM"
+    },
+    {
+        "schoolCode": "358",
+        "address": "2100 Morrisville Parkway, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "362",
+        "address": "291 Liles-Dean Road, Wendell, NC 27591",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "364",
+        "address": "400 Kildaire Farm Road, Cary, NC 27511",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "369",
+        "address": "1050 Town Hall Drive, Morrisville, NC 27560",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "376",
+        "address": "2001 Lorimer Road, Raleigh, NC 27606",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "380",
+        "address": "1220 Brookside Drive, Raleigh, NC 27604",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "384",
+        "address": "450 Creech Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "390",
+        "address": "2151 Davis Drive, Cary, NC 27519",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "393",
+        "address": "5018 Dillard Drive, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "396",
+        "address": "600 Ortega road, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "398",
+        "address": "9901 Durant Road, Raleigh, NC 27614",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "403",
+        "address": "5545 Jones Sausage Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "414",
+        "address": "1413 Hampton Valley Road, Cary, NC 27511",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "417",
+        "address": "11455 Forest Pines Drive, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "413",
+        "address": "100 Lawson Ridge Rd., Knightdale, NC 27545",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "415",
+        "address": "7101 Fox Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "416",
+        "address": "806 Calloway Drive, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "420",
+        "address": "6600 Johnson Pond Road, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "440",
+        "address": "3851 Spring Forest Road, Raleigh, NC 27616",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "439",
+        "address": "2700 Louis Stephens Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "451",
+        "address": "3829 Forestville Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "306",
+        "address": "2255 Herbert Akins Road, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "454",
+        "address": "3500 Rogers Road, Wake Forest, NC 27587",
+        "startTime": "8:10 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "443",
+        "address": "5415 Highcroft Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "446",
+        "address": "2128 Mingo Bluff Blvd., Knightdale, NC 27545",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "457",
+        "address": "1451 Avent Ferry Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "449",
+        "address": "900 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "447",
+        "address": "401 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "448",
+        "address": "1018 E. Davie Street, Raleigh, NC 27601",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "452",
+        "address": "6119 Creedmoor Road, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "453",
+        "address": "1100 Jones Dairy Road, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "456",
+        "address": "2300 Lowden Street, Raleigh, NC 27608",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "460",
+        "address": "200 E. Johnson St., Cary, NC 27513",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "464",
+        "address": "109 Ridge Street - Box 309, Knightdale, NC 27545",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "468",
+        "address": "2001 Lake Boone Trail, Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "474",
+        "address": "1300 Elk Falls Drive, Wendell, NC 27591",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "467",
+        "address": "E-mail - laurelparkes@wcpss.net",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "470",
+        "address": "8301 Old Leadmine Road, Raleigh, NC 27615",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "469",
+        "address": "8402 Pride Way, Raleigh, NC 27613",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "476",
+        "address": "307 Bridge Street, Fuquay-Varina, NC 27526",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "480",
+        "address": "1320 N. Smithfield Road, Knightdale, NC 27545",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "488",
+        "address": "1601 Lynn Road, Raleigh, NC 27612",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "494",
+        "address": "110 Middle Creek Park Ave., Apex, NC 27539",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "496",
+        "address": "1520 E. Millbrook Road, Raleigh, NC 27609",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "501",
+        "address": "509 Mills Park Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "504",
+        "address": "1519 Morrisville Pkwy., Morrisville, NC 27560",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "514",
+        "address": "11501 Forest Pines Dr, Raleigh, NC 27614",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "516",
+        "address": "7120 Harps Mill Road, Raleigh, NC 27615",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "520",
+        "address": "8850 Chapel Hill Road, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "522",
+        "address": "10401 Penny Road, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "524",
+        "address": "204 Dixie Trail, Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "523",
+        "address": "1751 Olive Chapel Road, Apex, NC 27502",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "525",
+        "address": "601 Devereux Street, Raleigh, NC 27605",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "530",
+        "address": "10900 Penny Road, Cary, NC 27518",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "531",
+        "address": "1900 Pleasant Union Church Rd., Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "532",
+        "address": "400 Peyton Street, Raleigh, NC 27610",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "536",
+        "address": "1130 Marlborough Road, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "540",
+        "address": "300 Arbor Greene Drive, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "542",
+        "address": "940 Reedy Creek Road, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "543",
+        "address": "840 Wallridge Drive, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "302",
+        "address": "6710 Perry Creek Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "544",
+        "address": "307 S. Main Street, Rolesville, NC 27571",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "548",
+        "address": "3202 Northampton Street, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "550",
+        "address": "6116 Old Jenks Rd., Apex, NC 27523",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "554",
+        "address": "701 Granite Falls Boulevard, Rolesville, NC 27571",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "560",
+        "address": "1101 Maxwell Drive, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "564",
+        "address": "4210 Edwards Mill Road, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "568",
+        "address": "5601 Tryon Road, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "569",
+        "address": "10921 Leesville Road, Raleigh, NC 27613",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "570",
+        "address": "1601 Timber Drive, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "571",
+        "address": "6801 Turner Creek Road, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "572",
+        "address": "1614 Glenwood Avenue, Raleigh, NC 27608",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "576",
+        "address": "8808 Old Stage Road, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "580",
+        "address": "1300 Vandora Springs Road, Garner, NC 27529",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "584",
+        "address": "136 W. Sycamore Avenue, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "593",
+        "address": "2400 Wakefield Pines Drive, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "597",
+        "address": "8921 Pippin Rd, Zebulon, NC 27597",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "599",
+        "address": "2600 Sunnybrook Rd, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "596",
+        "address": "1000 Fayetteville Street, Raleigh, NC 27601",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "598",
+        "address": "1000 Olde Weatherstone Way, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "600",
+        "address": "3355 Wendell Blvd., Wendell, NC 27591",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "606",
+        "address": "4500 West Lake Road, Apex, NC 27539",
+        "startTime": "7:40 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "616",
+        "address": "3707 Marsh Creek Road, Raleigh, NC 27604",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "618",
+        "address": "8401 Wild Wood Forest Drive, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "620",
+        "address": "301 St. Mary's Street, Raleigh, NC 27605",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "624",
+        "address": "6800 Dwight Rowland Road, Willow Springs, NC 27592",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "626",
+        "address": "5993 Yates Mill Pond Rd., Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "628",
+        "address": "5201 Brookhaven Drive, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "632",
+        "address": "700 Proctor Street, Zebulon, NC 27597",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "442",
+        "address": "7100 Hilburn Drive, Raleigh, NC 27613",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "312",
+        "address": "E-mail - apexms@wcpss.net",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "356",
+        "address": "1425 Carnage Drive, Raleigh, NC 27610",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "360",
+        "address": "4520 Six Forks Road, Raleigh, NC 27609",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "370",
+        "address": "1900 Main Campus Drive, Raleigh, NC 27606",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "388",
+        "address": "2816 Oberlin Road, Raleigh, NC 27608",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "391",
+        "address": "2101 Davis Drive, Cary, NC 27519",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "394",
+        "address": "5200 Dillard Drive, Raleigh, NC 27606",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "399",
+        "address": "10401 Durant Road, Raleigh, NC 27614",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "402",
+        "address": "1111 S.E. Maynard Road, Cary, NC 27511",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "404",
+        "address": "6301 Jones Sausage Road, Garner, NC 27529",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "408",
+        "address": "3801 Spring Forest Road, Raleigh, NC 27616",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "410",
+        "address": "2700 Old Milburnie Road, Raleigh, NC 27604",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "424",
+        "address": "109 Ennis Street, Fuquay-Varina, NC 27526",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "444",
+        "address": "3400 Rogers Road, Wake Forest, NC 27587",
+        "startTime": "8:20 AM",
+        "endTime": "3:05 PM"
+    },
+    {
+        "schoolCode": "458",
+        "address": "1401 Avent Ferry Road, Holly Springs, NC 27540",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "450",
+        "address": "950 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "471",
+        "address": "8406 Pride Way, Raleigh, NC 27613",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "472",
+        "address": "706 E. Lenoir Street, Raleigh, NC 27601",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "484",
+        "address": "1002 Lufkin Road, Apex, NC 27539",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "492",
+        "address": "1701 Ridge Road, Raleigh, NC 27607",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "502",
+        "address": "441 Mills Park Drive, Cary, NC 27519",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "506",
+        "address": "301 South Person Street, Raleigh, NC 27601",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "512",
+        "address": "720 Powell Drive, Garner, NC 27529",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "400",
+        "address": "930 Reedy Creek Road, Cary, NC 27513",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "545",
+        "address": "4700 Burlington Mills Road, Rolesville, NC 27571",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "551",
+        "address": "6150 Old Jenks Road, Apex, NC 27523",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "592",
+        "address": "1800 South Main Street, Wake Forest, NC 27587",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "594",
+        "address": "2300 Wakefield Pines Dr., Raleigh, NC 27614",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "601",
+        "address": "3409 North 97 Highway, Wendell, NC 27591",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "604",
+        "address": "1000 Evans Road, Cary, NC 27513",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "607",
+        "address": "4600 West Lake Road, Apex, NC 27539",
+        "startTime": "7:40 AM",
+        "endTime": "2:25 PM"
+    },
+    {
+        "schoolCode": "608",
+        "address": "8115 Strickland Road, Raleigh, NC 27615",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "636",
+        "address": "1000 Shephard School Road, Zebulon, NC 27597",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "585",
+        "address": "E-mail - isolomon@wcpss.net",
+        "startTime": "7:35 AM",
+        "endTime": "2:10 PM"
+    },
+    {
+        "schoolCode": "586",
+        "address": "E-mail - cjernigan-baker@wcpss.net",
+        "startTime": "7:35 AM",
+        "endTime": "2:10 PM"
+    },
+    {
+        "schoolCode": "316",
+        "address": "1501 Laura Duncan Road, Apex, NC 27502",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "318",
+        "address": "1420 Athens Drive, Raleigh, NC 27606",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "348",
+        "address": "723 St. Mary's Street, Raleigh, NC 27605",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "368",
+        "address": "638 Walnut Street, Cary, NC 27511",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "700",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "702",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "703",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "701",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "412",
+        "address": "128 Clarendon Crescent, Raleigh, NC 27610",
+        "startTime": "7:20 AM",
+        "endTime": "2:35 PM"
+    },
+    {
+        "schoolCode": "428",
+        "address": "201 Bengal Blvd., Fuquay-Varina, NC 27526",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "436",
+        "address": "2101 Spring Drive, Garner, NC 27529",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "441",
+        "address": "2500 Carpenter Upchurch Road, Cary, NC 27519",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "445",
+        "address": "1150 Forestville Road, Wake Forest, NC 27587",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "455",
+        "address": "5329 Cass Holt Road, Holly Springs, NC 27540",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "466",
+        "address": "100 Bryan Chalk Lane, Knightdale, NC 27545",
+        "startTime": "8:05 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "473",
+        "address": "8410 Pride Way, Raleigh, NC 27613",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "495",
+        "address": "123 Middle Creek Park Avenue, Apex, NC 27539",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "500",
+        "address": "2201 Spring Forest Road, Raleigh, NC 27615",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "526",
+        "address": "6770 McCrimmon Parkway, Cary, NC 27519",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "546",
+        "address": "Printer-Friendly Directions (new window) ",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "552",
+        "address": "5500 Dixon Drive, Raleigh, NC 27609",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "562",
+        "address": "2600 Rock Quarry Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:30 PM"
+    },
+    {
+        "schoolCode": "583",
+        "address": "2901 Holston Lane, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "588",
+        "address": "420 W. Stadium Drive, Wake Forest, NC 27587",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "582",
+        "address": "Mailing Campus Box 8117, Raleigh, NC 27695",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "595",
+        "address": "2200 Wakefield Pines Dr., Raleigh, NC 27614",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "324",
+        "address": "318 N. King Charles Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "528",
+        "address": "1923 Milburnie Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "438",
+        "address": "4700 New Bern Avenue, Raleigh, NC 27610",
+        "startTime": "7:30 AM",
+        "endTime": "1:50 PM"
+    },
+    {
+        "schoolCode": "508",
+        "address": "5418 Chapel Hill Rd., Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "304",
+        "address": "805 Cary Towne Blvd., Cary, NC 27511",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "307",
+        "address": "11555 Green Level Church Road, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "308",
+        "address": "700 Tingen Road, Apex, NC 27502",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "320",
+        "address": "1605 Aversboro Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "326",
+        "address": "9425 Baileywick Road, Raleigh, NC 27615",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "327",
+        "address": "1651 North McLaurin Lane, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "325",
+        "address": "10225 Chambers Road, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "329",
+        "address": "E-mail - barwell@wcpss.net",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "328",
+        "address": "400 Hunter Street, Apex, NC 27502",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "334",
+        "address": "2001 Brassfield Road, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "336",
+        "address": "3426 Ingram Drive, Raleigh, NC 27604",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "340",
+        "address": "1220 Pond Street, Cary, NC 27511",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "342",
+        "address": "9801 Brier Creek Parkway, Raleigh, NC 27617",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "344",
+        "address": "700 Northbrook Drive, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "352",
+        "address": "825 Cooper Road, Raleigh, NC 27610",
+        "startTime": "9:10 AM",
+        "endTime": "3:40 PM"
+    },
+    {
+        "schoolCode": "358",
+        "address": "2100 Morrisville Parkway, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "362",
+        "address": "291 Liles-Dean Road, Wendell, NC 27591",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "364",
+        "address": "400 Kildaire Farm Road, Cary, NC 27511",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "369",
+        "address": "1050 Town Hall Drive, Morrisville, NC 27560",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "376",
+        "address": "2001 Lorimer Road, Raleigh, NC 27606",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "380",
+        "address": "1220 Brookside Drive, Raleigh, NC 27604",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "384",
+        "address": "450 Creech Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "390",
+        "address": "2151 Davis Drive, Cary, NC 27519",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "393",
+        "address": "5018 Dillard Drive, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "396",
+        "address": "600 Ortega road, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "398",
+        "address": "9901 Durant Road, Raleigh, NC 27614",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "403",
+        "address": "5545 Jones Sausage Road, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "414",
+        "address": "1413 Hampton Valley Road, Cary, NC 27511",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "417",
+        "address": "11455 Forest Pines Drive, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "413",
+        "address": "100 Lawson Ridge Rd., Knightdale, NC 27545",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "415",
+        "address": "7101 Fox Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "416",
+        "address": "806 Calloway Drive, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "420",
+        "address": "6600 Johnson Pond Road, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "440",
+        "address": "3851 Spring Forest Road, Raleigh, NC 27616",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "439",
+        "address": "2700 Louis Stephens Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "451",
+        "address": "3829 Forestville Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "306",
+        "address": "2255 Herbert Akins Road, Fuquay-Varina, NC 27526",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "454",
+        "address": "3500 Rogers Road, Wake Forest, NC 27587",
+        "startTime": "8:10 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "443",
+        "address": "5415 Highcroft Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "446",
+        "address": "2128 Mingo Bluff Blvd., Knightdale, NC 27545",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "457",
+        "address": "1451 Avent Ferry Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "449",
+        "address": "900 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "447",
+        "address": "401 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "448",
+        "address": "1018 E. Davie Street, Raleigh, NC 27601",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "452",
+        "address": "6119 Creedmoor Road, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "453",
+        "address": "1100 Jones Dairy Road, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "456",
+        "address": "2300 Lowden Street, Raleigh, NC 27608",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "460",
+        "address": "200 E. Johnson St., Cary, NC 27513",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "464",
+        "address": "109 Ridge Street - Box 309, Knightdale, NC 27545",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "468",
+        "address": "2001 Lake Boone Trail, Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "474",
+        "address": "1300 Elk Falls Drive, Wendell, NC 27591",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "467",
+        "address": "E-mail - laurelparkes@wcpss.net",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "470",
+        "address": "8301 Old Leadmine Road, Raleigh, NC 27615",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "469",
+        "address": "8402 Pride Way, Raleigh, NC 27613",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "476",
+        "address": "307 Bridge Street, Fuquay-Varina, NC 27526",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "480",
+        "address": "1320 N. Smithfield Road, Knightdale, NC 27545",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "488",
+        "address": "1601 Lynn Road, Raleigh, NC 27612",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "494",
+        "address": "110 Middle Creek Park Ave., Apex, NC 27539",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "496",
+        "address": "1520 E. Millbrook Road, Raleigh, NC 27609",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "501",
+        "address": "509 Mills Park Drive, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "504",
+        "address": "1519 Morrisville Pkwy., Morrisville, NC 27560",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "514",
+        "address": "11501 Forest Pines Dr, Raleigh, NC 27614",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "516",
+        "address": "7120 Harps Mill Road, Raleigh, NC 27615",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "520",
+        "address": "8850 Chapel Hill Road, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "522",
+        "address": "10401 Penny Road, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "524",
+        "address": "204 Dixie Trail, Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "523",
+        "address": "1751 Olive Chapel Road, Apex, NC 27502",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "525",
+        "address": "601 Devereux Street, Raleigh, NC 27605",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "530",
+        "address": "10900 Penny Road, Cary, NC 27518",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "531",
+        "address": "1900 Pleasant Union Church Rd., Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "532",
+        "address": "400 Peyton Street, Raleigh, NC 27610",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "536",
+        "address": "1130 Marlborough Road, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "540",
+        "address": "300 Arbor Greene Drive, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "542",
+        "address": "940 Reedy Creek Road, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "543",
+        "address": "840 Wallridge Drive, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "302",
+        "address": "6710 Perry Creek Road, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "544",
+        "address": "307 S. Main Street, Rolesville, NC 27571",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "548",
+        "address": "3202 Northampton Street, Raleigh, NC 27609",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "550",
+        "address": "6116 Old Jenks Rd., Apex, NC 27523",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "554",
+        "address": "701 Granite Falls Boulevard, Rolesville, NC 27571",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "560",
+        "address": "1101 Maxwell Drive, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "564",
+        "address": "4210 Edwards Mill Road, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "568",
+        "address": "5601 Tryon Road, Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "569",
+        "address": "10921 Leesville Road, Raleigh, NC 27613",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "570",
+        "address": "1601 Timber Drive, Garner, NC 27529",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "571",
+        "address": "6801 Turner Creek Road, Cary, NC 27519",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "572",
+        "address": "1614 Glenwood Avenue, Raleigh, NC 27608",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "576",
+        "address": "8808 Old Stage Road, Raleigh, NC 27603",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "580",
+        "address": "1300 Vandora Springs Road, Garner, NC 27529",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "584",
+        "address": "136 W. Sycamore Avenue, Wake Forest, NC 27587",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "593",
+        "address": "2400 Wakefield Pines Drive, Raleigh, NC 27614",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "597",
+        "address": "8921 Pippin Rd, Zebulon, NC 27597",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "599",
+        "address": "2600 Sunnybrook Rd, Raleigh, NC 27610",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "596",
+        "address": "1000 Fayetteville Street, Raleigh, NC 27601",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "598",
+        "address": "1000 Olde Weatherstone Way, Cary, NC 27513",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "600",
+        "address": "3355 Wendell Blvd., Wendell, NC 27591",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "606",
+        "address": "4500 West Lake Road, Apex, NC 27539",
+        "startTime": "7:40 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "616",
+        "address": "3707 Marsh Creek Road, Raleigh, NC 27604",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "618",
+        "address": "8401 Wild Wood Forest Drive, Raleigh, NC 27616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "620",
+        "address": "301 St. Mary's Street, Raleigh, NC 27605",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "624",
+        "address": "6800 Dwight Rowland Road, Willow Springs, NC 27592",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "626",
+        "address": "5993 Yates Mill Pond Rd., Raleigh, NC 27606",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "628",
+        "address": "5201 Brookhaven Drive, Raleigh, NC 27612",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "632",
+        "address": "700 Proctor Street, Zebulon, NC 27597",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "442",
+        "address": "7100 Hilburn Drive, Raleigh, NC 27613",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "312",
+        "address": "E-mail - apexms@wcpss.net",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "356",
+        "address": "1425 Carnage Drive, Raleigh, NC 27610",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "360",
+        "address": "4520 Six Forks Road, Raleigh, NC 27609",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "370",
+        "address": "1900 Main Campus Drive, Raleigh, NC 27606",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "388",
+        "address": "2816 Oberlin Road, Raleigh, NC 27608",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "391",
+        "address": "2101 Davis Drive, Cary, NC 27519",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "394",
+        "address": "5200 Dillard Drive, Raleigh, NC 27606",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "399",
+        "address": "10401 Durant Road, Raleigh, NC 27614",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "402",
+        "address": "1111 S.E. Maynard Road, Cary, NC 27511",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "404",
+        "address": "6301 Jones Sausage Road, Garner, NC 27529",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "408",
+        "address": "3801 Spring Forest Road, Raleigh, NC 27616",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "410",
+        "address": "2700 Old Milburnie Road, Raleigh, NC 27604",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "424",
+        "address": "109 Ennis Street, Fuquay-Varina, NC 27526",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "444",
+        "address": "3400 Rogers Road, Wake Forest, NC 27587",
+        "startTime": "8:20 AM",
+        "endTime": "3:05 PM"
+    },
+    {
+        "schoolCode": "458",
+        "address": "1401 Avent Ferry Road, Holly Springs, NC 27540",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "450",
+        "address": "950 Holly Springs Road, Holly Springs, NC 27540",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "471",
+        "address": "8406 Pride Way, Raleigh, NC 27613",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "472",
+        "address": "706 E. Lenoir Street, Raleigh, NC 27601",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "484",
+        "address": "1002 Lufkin Road, Apex, NC 27539",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "492",
+        "address": "1701 Ridge Road, Raleigh, NC 27607",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "502",
+        "address": "441 Mills Park Drive, Cary, NC 27519",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "506",
+        "address": "301 South Person Street, Raleigh, NC 27601",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "512",
+        "address": "720 Powell Drive, Garner, NC 27529",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "400",
+        "address": "930 Reedy Creek Road, Cary, NC 27513",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "545",
+        "address": "4700 Burlington Mills Road, Rolesville, NC 27571",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "551",
+        "address": "6150 Old Jenks Road, Apex, NC 27523",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "592",
+        "address": "1800 South Main Street, Wake Forest, NC 27587",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "594",
+        "address": "2300 Wakefield Pines Dr., Raleigh, NC 27614",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "601",
+        "address": "3409 North 97 Highway, Wendell, NC 27591",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "604",
+        "address": "1000 Evans Road, Cary, NC 27513",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "607",
+        "address": "4600 West Lake Road, Apex, NC 27539",
+        "startTime": "7:40 AM",
+        "endTime": "2:25 PM"
+    },
+    {
+        "schoolCode": "608",
+        "address": "8115 Strickland Road, Raleigh, NC 27615",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "636",
+        "address": "1000 Shephard School Road, Zebulon, NC 27597",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "585",
+        "address": "E-mail - isolomon@wcpss.net",
+        "startTime": "7:35 AM",
+        "endTime": "2:10 PM"
+    },
+    {
+        "schoolCode": "586",
+        "address": "E-mail - cjernigan-baker@wcpss.net",
+        "startTime": "7:35 AM",
+        "endTime": "2:10 PM"
+    },
+    {
+        "schoolCode": "316",
+        "address": "1501 Laura Duncan Road, Apex, NC 27502",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "318",
+        "address": "1420 Athens Drive, Raleigh, NC 27606",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "348",
+        "address": "723 St. Mary's Street, Raleigh, NC 27605",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "368",
+        "address": "638 Walnut Street, Cary, NC 27511",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "700",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "702",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "703",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "701",
+        "address": "5101 Rolesville Road, Wendell, NC 27591",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "412",
+        "address": "128 Clarendon Crescent, Raleigh, NC 27610",
+        "startTime": "7:20 AM",
+        "endTime": "2:35 PM"
+    },
+    {
+        "schoolCode": "428",
+        "address": "201 Bengal Blvd., Fuquay-Varina, NC 27526",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "436",
+        "address": "2101 Spring Drive, Garner, NC 27529",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "441",
+        "address": "2500 Carpenter Upchurch Road, Cary, NC 27519",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "445",
+        "address": "1150 Forestville Road, Wake Forest, NC 27587",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "455",
+        "address": "5329 Cass Holt Road, Holly Springs, NC 27540",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "466",
+        "address": "100 Bryan Chalk Lane, Knightdale, NC 27545",
+        "startTime": "8:05 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "473",
+        "address": "8410 Pride Way, Raleigh, NC 27613",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "495",
+        "address": "123 Middle Creek Park Avenue, Apex, NC 27539",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "500",
+        "address": "2201 Spring Forest Road, Raleigh, NC 27615",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "526",
+        "address": "6770 McCrimmon Parkway, Cary, NC 27519",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "546",
+        "address": "Printer-Friendly Directions (new window) ",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "552",
+        "address": "5500 Dixon Drive, Raleigh, NC 27609",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "562",
+        "address": "2600 Rock Quarry Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:30 PM"
+    },
+    {
+        "schoolCode": "583",
+        "address": "2901 Holston Lane, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "588",
+        "address": "420 W. Stadium Drive, Wake Forest, NC 27587",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "582",
+        "address": "Mailing Campus Box 8117, Raleigh, NC 27695",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "595",
+        "address": "2200 Wakefield Pines Dr., Raleigh, NC 27614",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "324",
+        "address": "318 N. King Charles Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "528",
+        "address": "1923 Milburnie Road, Raleigh, NC 27610",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "438",
+        "address": "4700 New Bern Avenue, Raleigh, NC 27610",
+        "startTime": "7:30 AM",
+        "endTime": "1:50 PM"
+    },
+    {
+        "schoolCode": "508",
+        "address": "5418 Chapel Hill Rd., Raleigh, NC 27607",
+        "startTime": "8:30 AM",
+        "endTime": "2:50 PM"
+    }
+]

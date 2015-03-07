@@ -50,6 +50,8 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <None Include="ScreenScrapeIndividualSchools.fsx" />
+    <None Include="CleanIndividualSchools.fsx" />
+    <None Include="GeoLocationSchools.fsx" />
     <None Include="GeolocateCrashData.fsx" />
     <None Include="ScreenScrapeSchoolList.fsx" />
     <None Include="GeoLocationSchoolList.fsx" />

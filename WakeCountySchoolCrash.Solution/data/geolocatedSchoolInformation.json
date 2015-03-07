@@ -1,0 +1,2284 @@
+[
+    {
+        "schoolCode": "304",
+        "latitude": "35.777389",
+        "longitude": "-78.761642",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "307",
+        "latitude": "35.882431030273437",
+        "longitude": "-78.915092468261719",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "308",
+        "latitude": "35.722763",
+        "longitude": "-78.856224",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "320",
+        "latitude": "35.689075",
+        "longitude": "-78.615226",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "326",
+        "latitude": "35.909183",
+        "longitude": "-78.664733",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "327",
+        "latitude": "35.613609",
+        "longitude": "-78.77243",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "325",
+        "latitude": "35.633703321218491",
+        "longitude": "-78.709628060460091",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "328",
+        "latitude": "35.737438",
+        "longitude": "-78.85424",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "334",
+        "latitude": "35.933502",
+        "longitude": "-78.630348",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "336",
+        "latitude": "35.828979",
+        "longitude": "-78.596916",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "340",
+        "latitude": "35.768665",
+        "longitude": "-78.788291",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "342",
+        "latitude": "35.90134",
+        "longitude": "-78.805191",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "344",
+        "latitude": "35.845264",
+        "longitude": "-78.654861",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "352",
+        "latitude": "35.765197",
+        "longitude": "-78.586204",
+        "startTime": "9:10 AM",
+        "endTime": "3:40 PM"
+    },
+    {
+        "schoolCode": "358",
+        "latitude": "35.814933",
+        "longitude": "-78.866882",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "362",
+        "latitude": "35.790687",
+        "longitude": "-78.386543",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "364",
+        "latitude": "35.781002",
+        "longitude": "-78.781723",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "369",
+        "latitude": "35.837203",
+        "longitude": "-78.839485",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "376",
+        "latitude": "35.7747",
+        "longitude": "-78.701179",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "380",
+        "latitude": "35.796115",
+        "longitude": "-78.622734",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "384",
+        "latitude": "35.714984",
+        "longitude": "-78.600013",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "390",
+        "latitude": "35.779836103320122",
+        "longitude": "-78.848935291171074",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "393",
+        "latitude": "35.753532",
+        "longitude": "-78.723754",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "396",
+        "latitude": "35.839935",
+        "longitude": "-78.62928",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "398",
+        "latitude": "35.899616",
+        "longitude": "-78.580444",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "403",
+        "latitude": "35.708492",
+        "longitude": "-78.58686",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "414",
+        "latitude": "35.757938",
+        "longitude": "-78.77465",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "417",
+        "latitude": "35.950948297977448",
+        "longitude": "-78.5457256436348",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "413",
+        "latitude": "35.809856",
+        "longitude": "-78.481773",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "415",
+        "latitude": "35.873657",
+        "longitude": "-78.555351",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "416",
+        "latitude": "35.754905",
+        "longitude": "-78.624053",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "420",
+        "latitude": "35.604137",
+        "longitude": "-78.758262",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "440",
+        "latitude": "35.855708420276642",
+        "longitude": "-78.575031459331512",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "439",
+        "latitude": "35.802787780761719",
+        "longitude": "-78.8598861694336",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "451",
+        "latitude": "35.875194668769836",
+        "longitude": "-78.51130485534668",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "306",
+        "latitude": "35.622372999787331",
+        "longitude": "-78.801643922925",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "454",
+        "latitude": "35.947704",
+        "longitude": "-78.511764",
+        "startTime": "8:10 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "443",
+        "latitude": "35.800716",
+        "longitude": "-78.884078",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "446",
+        "latitude": "35.776859",
+        "longitude": "-78.522628",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "457",
+        "latitude": "35.632613003253937",
+        "longitude": "-78.850454092025757",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "449",
+        "latitude": "35.655682012438774",
+        "longitude": "-78.817363679409027",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "447",
+        "latitude": "35.656223297119141",
+        "longitude": "-78.828353881835938",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "448",
+        "latitude": "35.774272918701172",
+        "longitude": "-78.623367309570313",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "452",
+        "latitude": "35.868259",
+        "longitude": "-78.680976",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "453",
+        "latitude": "35.949714",
+        "longitude": "-78.471977",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "456",
+        "latitude": "35.815208",
+        "longitude": "-78.633018",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "460",
+        "latitude": "35.792842",
+        "longitude": "-78.77832",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "464",
+        "latitude": "35.784919",
+        "longitude": "-78.477134",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "468",
+        "latitude": "35.81438",
+        "longitude": "-78.68074",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "474",
+        "latitude": "35.761432647705078",
+        "longitude": "-78.429771423339844",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "470",
+        "latitude": "35.891574859619141",
+        "longitude": "-78.657135009765625",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "469",
+        "latitude": "35.924884796142578",
+        "longitude": "-78.711372375488281",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "476",
+        "latitude": "35.590217590332031",
+        "longitude": "-78.809783935546875",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "480",
+        "latitude": "35.803260803222656",
+        "longitude": "-78.484390258789063",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "488",
+        "latitude": "35.870323",
+        "longitude": "-78.667839",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "494",
+        "latitude": "35.670265197753906",
+        "longitude": "-78.759468078613281",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "496",
+        "latitude": "35.848789",
+        "longitude": "-78.610656",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "501",
+        "latitude": "35.811958",
+        "longitude": "-78.896141",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "504",
+        "latitude": "35.811431",
+        "longitude": "-78.846565",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "514",
+        "latitude": "35.953468",
+        "longitude": "-78.546997",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "516",
+        "latitude": "35.881259",
+        "longitude": "-78.622665",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "520",
+        "latitude": "35.795566",
+        "longitude": "-78.789588",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "522",
+        "latitude": "35.713600158691406",
+        "longitude": "-78.783042907714844",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "524",
+        "latitude": "35.793720245361328",
+        "longitude": "-78.675010681152344",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "523",
+        "latitude": "35.734661102294922",
+        "longitude": "-78.894218444824219",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "525",
+        "latitude": "35.7896842956543",
+        "longitude": "-78.647956848144531",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "530",
+        "latitude": "35.7174186706543",
+        "longitude": "-78.797409057617188",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "531",
+        "latitude": "35.950294",
+        "longitude": "-78.673171",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "532",
+        "latitude": "35.773303",
+        "longitude": "-78.605041",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "536",
+        "latitude": "35.7952",
+        "longitude": "-78.602928",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "540",
+        "latitude": "35.655315",
+        "longitude": "-78.617469",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "542",
+        "latitude": "35.812747",
+        "longitude": "-78.768211",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "543",
+        "latitude": "36.003523617982864",
+        "longitude": "-78.514633476734161",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "302",
+        "latitude": "35.864723",
+        "longitude": "-78.535926",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "544",
+        "latitude": "35.9192",
+        "longitude": "-78.461158",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "548",
+        "latitude": "35.825359",
+        "longitude": "-78.650436",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "550",
+        "latitude": "35.755924",
+        "longitude": "-78.850044",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "554",
+        "latitude": "35.92736",
+        "longitude": "-78.461814",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "560",
+        "latitude": "35.711574554443359",
+        "longitude": "-78.653388977050781",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "564",
+        "latitude": "35.835334",
+        "longitude": "-78.691978",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "568",
+        "latitude": "35.743881",
+        "longitude": "-78.733917",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "569",
+        "latitude": "35.918264240026474",
+        "longitude": "-78.730622380971909",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "570",
+        "latitude": "35.689785",
+        "longitude": "-78.636886",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "571",
+        "latitude": "35.772811",
+        "longitude": "-78.875221",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "572",
+        "latitude": "35.802260711789131",
+        "longitude": "-78.645875975489616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "576",
+        "latitude": "35.65535344183445",
+        "longitude": "-78.666429072618484",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "580",
+        "latitude": "35.699069",
+        "longitude": "-78.62841",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "584",
+        "latitude": "35.976993",
+        "longitude": "-78.514427",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "593",
+        "latitude": "35.947619676589966",
+        "longitude": "-78.567553460597992",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "597",
+        "latitude": "35.855602",
+        "longitude": "-78.334838",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "599",
+        "latitude": "35.744929164648056",
+        "longitude": "-78.586998805403709",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "596",
+        "latitude": "35.767276",
+        "longitude": "-78.643814",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "598",
+        "latitude": "35.792324",
+        "longitude": "-78.810142",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "600",
+        "latitude": "35.785419",
+        "longitude": "-78.372253",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "606",
+        "latitude": "35.660343170166016",
+        "longitude": "-78.761871337890625",
+        "startTime": "7:40 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "616",
+        "latitude": "35.821441",
+        "longitude": "-78.574958",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "618",
+        "latitude": "35.89347",
+        "longitude": "-78.551124",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "620",
+        "latitude": "35.784717",
+        "longitude": "-78.651763",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "624",
+        "latitude": "35.593322",
+        "longitude": "-78.728393",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "626",
+        "latitude": "35.737773",
+        "longitude": "-78.729637",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "628",
+        "latitude": "35.852241",
+        "longitude": "-78.684379",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "632",
+        "latitude": "35.840903297066689",
+        "longitude": "-78.320157900452614",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "442",
+        "latitude": "35.874839",
+        "longitude": "-78.71434",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "356",
+        "latitude": "35.762001",
+        "longitude": "-78.627265",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "360",
+        "latitude": "35.843067",
+        "longitude": "-78.64083",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "370",
+        "latitude": "35.758098140358925",
+        "longitude": "-78.687425404787064",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "388",
+        "latitude": "35.813663",
+        "longitude": "-78.656661",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "391",
+        "latitude": "35.778697",
+        "longitude": "-78.851188",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "394",
+        "latitude": "35.751728564500809",
+        "longitude": "-78.72606597840786",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "399",
+        "latitude": "35.902221",
+        "longitude": "-78.588241",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "402",
+        "latitude": "35.780713185667992",
+        "longitude": "-78.764247894287109",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "404",
+        "latitude": "35.701778",
+        "longitude": "-78.585533",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "408",
+        "latitude": "35.857883",
+        "longitude": "-78.574813",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "410",
+        "latitude": "35.826053",
+        "longitude": "-78.501441",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "424",
+        "latitude": "35.585857391357422",
+        "longitude": "-78.793914794921875",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "444",
+        "latitude": "35.950239524245262",
+        "longitude": "-78.51310595870018",
+        "startTime": "8:20 AM",
+        "endTime": "3:05 PM"
+    },
+    {
+        "schoolCode": "458",
+        "latitude": "35.63319705426693",
+        "longitude": "-78.849389255046844",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "450",
+        "latitude": "35.654129",
+        "longitude": "-78.815261",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "471",
+        "latitude": "35.924884796142578",
+        "longitude": "-78.711372375488281",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "472",
+        "latitude": "35.770267",
+        "longitude": "-78.626312",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "484",
+        "latitude": "35.719676",
+        "longitude": "-78.830162",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "492",
+        "latitude": "35.812564",
+        "longitude": "-78.686981",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "502",
+        "latitude": "35.812964737415314",
+        "longitude": "-78.90118807554245",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "506",
+        "latitude": "35.776096",
+        "longitude": "-78.634239",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "512",
+        "latitude": "35.715946",
+        "longitude": "-78.61177",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "400",
+        "latitude": "35.812267363071442",
+        "longitude": "-78.772710934281349",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "545",
+        "latitude": "35.914291",
+        "longitude": "-78.480926",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "551",
+        "latitude": "35.75827",
+        "longitude": "-78.849014",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "592",
+        "latitude": "35.954391",
+        "longitude": "-78.529838",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "594",
+        "latitude": "35.945934",
+        "longitude": "-78.570335",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "601",
+        "latitude": "35.785976409912109",
+        "longitude": "-78.3826675415039",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "604",
+        "latitude": "35.802597",
+        "longitude": "-78.792526",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "607",
+        "latitude": "35.660652816295624",
+        "longitude": "-78.758383244276047",
+        "startTime": "7:40 AM",
+        "endTime": "2:25 PM"
+    },
+    {
+        "schoolCode": "608",
+        "latitude": "35.892776",
+        "longitude": "-78.632186",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "636",
+        "latitude": "35.831546",
+        "longitude": "-78.311752",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "316",
+        "latitude": "35.745807",
+        "longitude": "-78.838409",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "318",
+        "latitude": "35.768402",
+        "longitude": "-78.712402",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "348",
+        "latitude": "35.79063",
+        "longitude": "-78.653503",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "368",
+        "latitude": "35.771507",
+        "longitude": "-78.766265",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "700",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "702",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "703",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "701",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "412",
+        "latitude": "35.784271",
+        "longitude": "-78.60334",
+        "startTime": "7:20 AM",
+        "endTime": "2:35 PM"
+    },
+    {
+        "schoolCode": "428",
+        "latitude": "35.597961",
+        "longitude": "-78.79454",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "436",
+        "latitude": "35.710018",
+        "longitude": "-78.63739",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "441",
+        "latitude": "35.804748",
+        "longitude": "-78.86676",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "445",
+        "latitude": "35.940185",
+        "longitude": "-78.511001",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "455",
+        "latitude": "35.628902",
+        "longitude": "-78.848907",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "466",
+        "latitude": "35.810558",
+        "longitude": "-78.476669",
+        "startTime": "8:05 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "473",
+        "latitude": "35.924884796142578",
+        "longitude": "-78.711372375488281",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "495",
+        "latitude": "35.666770935058594",
+        "longitude": "-78.760543823242187",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "500",
+        "latitude": "35.865814",
+        "longitude": "-78.603004",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "526",
+        "latitude": "35.83023",
+        "longitude": "-78.888793",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "552",
+        "latitude": "35.861061",
+        "longitude": "-78.646492",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "562",
+        "latitude": "35.745365",
+        "longitude": "-78.604095",
+        "startTime": "7:25 AM",
+        "endTime": "2:30 PM"
+    },
+    {
+        "schoolCode": "583",
+        "latitude": "35.784538",
+        "longitude": "-78.585212",
+        "startTime": "7:25 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "588",
+        "latitude": "35.983741760253906",
+        "longitude": "-78.519767761230469",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "582",
+        "latitude": "35.813823699951172",
+        "longitude": "-78.722702026367188",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "595",
+        "latitude": "35.949835181236267",
+        "longitude": "-78.5704194009304",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "324",
+        "latitude": "35.785579",
+        "longitude": "-78.610023",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "528",
+        "latitude": "35.788208",
+        "longitude": "-78.616203",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "438",
+        "latitude": "35.797546",
+        "longitude": "-78.558319",
+        "startTime": "7:30 AM",
+        "endTime": "1:50 PM"
+    },
+    {
+        "schoolCode": "508",
+        "latitude": "35.79092",
+        "longitude": "-78.719459",
+        "startTime": "8:30 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "304",
+        "latitude": "35.777389",
+        "longitude": "-78.761642",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "307",
+        "latitude": "35.882431030273437",
+        "longitude": "-78.915092468261719",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "308",
+        "latitude": "35.722763",
+        "longitude": "-78.856224",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "320",
+        "latitude": "35.689075",
+        "longitude": "-78.615226",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "326",
+        "latitude": "35.909183",
+        "longitude": "-78.664733",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "327",
+        "latitude": "35.613609",
+        "longitude": "-78.77243",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "325",
+        "latitude": "35.633703321218491",
+        "longitude": "-78.709628060460091",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "328",
+        "latitude": "35.737438",
+        "longitude": "-78.85424",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "334",
+        "latitude": "35.933502",
+        "longitude": "-78.630348",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "336",
+        "latitude": "35.828979",
+        "longitude": "-78.596916",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "340",
+        "latitude": "35.768665",
+        "longitude": "-78.788291",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "342",
+        "latitude": "35.90134",
+        "longitude": "-78.805191",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "344",
+        "latitude": "35.845264",
+        "longitude": "-78.654861",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "352",
+        "latitude": "35.765197",
+        "longitude": "-78.586204",
+        "startTime": "9:10 AM",
+        "endTime": "3:40 PM"
+    },
+    {
+        "schoolCode": "358",
+        "latitude": "35.814933",
+        "longitude": "-78.866882",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "362",
+        "latitude": "35.790687",
+        "longitude": "-78.386543",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "364",
+        "latitude": "35.781002",
+        "longitude": "-78.781723",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "369",
+        "latitude": "35.837203",
+        "longitude": "-78.839485",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "376",
+        "latitude": "35.7747",
+        "longitude": "-78.701179",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "380",
+        "latitude": "35.796115",
+        "longitude": "-78.622734",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "384",
+        "latitude": "35.714984",
+        "longitude": "-78.600013",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "390",
+        "latitude": "35.779836103320122",
+        "longitude": "-78.848935291171074",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "393",
+        "latitude": "35.753532",
+        "longitude": "-78.723754",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "396",
+        "latitude": "35.839935",
+        "longitude": "-78.62928",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "398",
+        "latitude": "35.899616",
+        "longitude": "-78.580444",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "403",
+        "latitude": "35.708492279052734",
+        "longitude": "-78.586860656738281",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "414",
+        "latitude": "35.757938",
+        "longitude": "-78.77465",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "417",
+        "latitude": "35.950948297977448",
+        "longitude": "-78.5457256436348",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "413",
+        "latitude": "35.809856",
+        "longitude": "-78.481773",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "415",
+        "latitude": "35.873657",
+        "longitude": "-78.555351",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "416",
+        "latitude": "35.754905",
+        "longitude": "-78.624053",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "420",
+        "latitude": "35.604137",
+        "longitude": "-78.758262",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "440",
+        "latitude": "35.855708420276642",
+        "longitude": "-78.575031459331512",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "439",
+        "latitude": "35.802787",
+        "longitude": "-78.859886",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "451",
+        "latitude": "35.873096",
+        "longitude": "-78.512016",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "306",
+        "latitude": "35.622372999787331",
+        "longitude": "-78.801643922925",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "454",
+        "latitude": "35.947704",
+        "longitude": "-78.511764",
+        "startTime": "8:10 AM",
+        "endTime": "2:50 PM"
+    },
+    {
+        "schoolCode": "443",
+        "latitude": "35.800716",
+        "longitude": "-78.884078",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "446",
+        "latitude": "35.776859",
+        "longitude": "-78.522628",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "457",
+        "latitude": "35.632613003253937",
+        "longitude": "-78.850454092025757",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "449",
+        "latitude": "35.655682012438774",
+        "longitude": "-78.817363679409027",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "447",
+        "latitude": "35.656223",
+        "longitude": "-78.828353",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "448",
+        "latitude": "35.774272",
+        "longitude": "-78.623367",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "452",
+        "latitude": "35.868259",
+        "longitude": "-78.680976",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "453",
+        "latitude": "35.949714",
+        "longitude": "-78.471977",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "456",
+        "latitude": "35.815208",
+        "longitude": "-78.633018",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "460",
+        "latitude": "35.792842",
+        "longitude": "-78.77832",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "464",
+        "latitude": "35.784919",
+        "longitude": "-78.477134",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "468",
+        "latitude": "35.81438",
+        "longitude": "-78.68074",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "474",
+        "latitude": "35.761432647705078",
+        "longitude": "-78.429771423339844",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "470",
+        "latitude": "35.891574859619141",
+        "longitude": "-78.657135009765625",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "476",
+        "latitude": "35.590217",
+        "longitude": "-78.809783",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "480",
+        "latitude": "35.80326",
+        "longitude": "-78.48439",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "488",
+        "latitude": "35.870323",
+        "longitude": "-78.667839",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "494",
+        "latitude": "35.670265197753906",
+        "longitude": "-78.759468078613281",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "496",
+        "latitude": "35.848789",
+        "longitude": "-78.610656",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "501",
+        "latitude": "35.811958",
+        "longitude": "-78.896141",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "504",
+        "latitude": "35.811431",
+        "longitude": "-78.846565",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "514",
+        "latitude": "35.953468",
+        "longitude": "-78.546997",
+        "startTime": "7:45 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "516",
+        "latitude": "35.881259",
+        "longitude": "-78.622665",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "520",
+        "latitude": "35.795566",
+        "longitude": "-78.789588",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "522",
+        "latitude": "35.713600158691406",
+        "longitude": "-78.783042907714844",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "523",
+        "latitude": "35.734661",
+        "longitude": "-78.894218",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "525",
+        "latitude": "35.789684",
+        "longitude": "-78.647956",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "530",
+        "latitude": "35.717418",
+        "longitude": "-78.797409",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "531",
+        "latitude": "35.950294",
+        "longitude": "-78.673171",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "532",
+        "latitude": "35.773303",
+        "longitude": "-78.605041",
+        "startTime": "9:05 AM",
+        "endTime": "3:35 PM"
+    },
+    {
+        "schoolCode": "536",
+        "latitude": "35.7952",
+        "longitude": "-78.602928",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "540",
+        "latitude": "35.655315",
+        "longitude": "-78.617469",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "542",
+        "latitude": "35.812747",
+        "longitude": "-78.768211",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "543",
+        "latitude": "36.003523617982864",
+        "longitude": "-78.514633476734161",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "302",
+        "latitude": "35.864723",
+        "longitude": "-78.535926",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "544",
+        "latitude": "35.9192",
+        "longitude": "-78.461158",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "548",
+        "latitude": "35.825359",
+        "longitude": "-78.650436",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "550",
+        "latitude": "35.755924",
+        "longitude": "-78.850044",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "554",
+        "latitude": "35.92736",
+        "longitude": "-78.461814",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "560",
+        "latitude": "35.711574554443359",
+        "longitude": "-78.653388977050781",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "564",
+        "latitude": "35.835334",
+        "longitude": "-78.691978",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "568",
+        "latitude": "35.743881",
+        "longitude": "-78.733917",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "569",
+        "latitude": "35.918264240026474",
+        "longitude": "-78.730622380971909",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "570",
+        "latitude": "35.689785",
+        "longitude": "-78.636886",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "571",
+        "latitude": "35.772811",
+        "longitude": "-78.875221",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "572",
+        "latitude": "35.802260711789131",
+        "longitude": "-78.645875975489616",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "576",
+        "latitude": "35.65535344183445",
+        "longitude": "-78.666429072618484",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "580",
+        "latitude": "35.699069",
+        "longitude": "-78.62841",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "584",
+        "latitude": "35.976993",
+        "longitude": "-78.514427",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "593",
+        "latitude": "35.947619676589966",
+        "longitude": "-78.567553460597992",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "597",
+        "latitude": "35.855602",
+        "longitude": "-78.334838",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "599",
+        "latitude": "35.744929164648056",
+        "longitude": "-78.586998805403709",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "596",
+        "latitude": "35.767276",
+        "longitude": "-78.643814",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "598",
+        "latitude": "35.792324",
+        "longitude": "-78.810142",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "600",
+        "latitude": "35.785419",
+        "longitude": "-78.372253",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "606",
+        "latitude": "35.660343170166016",
+        "longitude": "-78.761871337890625",
+        "startTime": "7:40 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "616",
+        "latitude": "35.821441",
+        "longitude": "-78.574958",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "618",
+        "latitude": "35.89347",
+        "longitude": "-78.551124",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "620",
+        "latitude": "35.784717",
+        "longitude": "-78.651763",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "624",
+        "latitude": "35.593322",
+        "longitude": "-78.728393",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "626",
+        "latitude": "35.737773",
+        "longitude": "-78.729637",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "628",
+        "latitude": "35.852241516113281",
+        "longitude": "-78.684379577636719",
+        "startTime": "9:15 AM",
+        "endTime": "3:45 PM"
+    },
+    {
+        "schoolCode": "632",
+        "latitude": "35.840903297066689",
+        "longitude": "-78.320157900452614",
+        "startTime": "8:30 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "442",
+        "latitude": "35.874839",
+        "longitude": "-78.71434",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "356",
+        "latitude": "35.762001",
+        "longitude": "-78.627265",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "360",
+        "latitude": "35.843067",
+        "longitude": "-78.64083",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "370",
+        "latitude": "35.758098140358925",
+        "longitude": "-78.687425404787064",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "388",
+        "latitude": "35.813663",
+        "longitude": "-78.656661",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "391",
+        "latitude": "35.778697",
+        "longitude": "-78.851188",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "394",
+        "latitude": "35.751728564500809",
+        "longitude": "-78.72606597840786",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "399",
+        "latitude": "35.902221",
+        "longitude": "-78.588241",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "402",
+        "latitude": "35.780713185667992",
+        "longitude": "-78.764247894287109",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "404",
+        "latitude": "35.701778",
+        "longitude": "-78.585533",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "408",
+        "latitude": "35.857883",
+        "longitude": "-78.574813",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "410",
+        "latitude": "35.826053",
+        "longitude": "-78.501441",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "424",
+        "latitude": "35.585857391357422",
+        "longitude": "-78.793914794921875",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "444",
+        "latitude": "35.950239524245262",
+        "longitude": "-78.51310595870018",
+        "startTime": "8:20 AM",
+        "endTime": "3:05 PM"
+    },
+    {
+        "schoolCode": "458",
+        "latitude": "35.63319705426693",
+        "longitude": "-78.849389255046844",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "450",
+        "latitude": "35.654129",
+        "longitude": "-78.815261",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "471",
+        "latitude": "35.924884796142578",
+        "longitude": "-78.711372375488281",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "472",
+        "latitude": "35.770267",
+        "longitude": "-78.626312",
+        "startTime": "7:35 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "484",
+        "latitude": "35.719676",
+        "longitude": "-78.830162",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "492",
+        "latitude": "35.812564",
+        "longitude": "-78.686981",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "502",
+        "latitude": "35.812964737415314",
+        "longitude": "-78.90118807554245",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "506",
+        "latitude": "35.776096",
+        "longitude": "-78.634239",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "512",
+        "latitude": "35.715946",
+        "longitude": "-78.61177",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "400",
+        "latitude": "35.812267363071442",
+        "longitude": "-78.772710934281349",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "545",
+        "latitude": "35.914291",
+        "longitude": "-78.480926",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "551",
+        "latitude": "35.75827",
+        "longitude": "-78.849014",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "592",
+        "latitude": "35.954391",
+        "longitude": "-78.529838",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "594",
+        "latitude": "35.945934",
+        "longitude": "-78.570335",
+        "startTime": "8:30 AM",
+        "endTime": "3:15 PM"
+    },
+    {
+        "schoolCode": "601",
+        "latitude": "35.785976409912109",
+        "longitude": "-78.3826675415039",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "604",
+        "latitude": "35.802597",
+        "longitude": "-78.792526",
+        "startTime": "7:30 AM",
+        "endTime": "2:15 PM"
+    },
+    {
+        "schoolCode": "607",
+        "latitude": "35.660652816295624",
+        "longitude": "-78.758383244276047",
+        "startTime": "7:40 AM",
+        "endTime": "2:25 PM"
+    },
+    {
+        "schoolCode": "608",
+        "latitude": "35.892776",
+        "longitude": "-78.632186",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "636",
+        "latitude": "35.831546",
+        "longitude": "-78.311752",
+        "startTime": "8:15 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "316",
+        "latitude": "35.745807",
+        "longitude": "-78.838409",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "318",
+        "latitude": "35.768402",
+        "longitude": "-78.712402",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "348",
+        "latitude": "35.79063",
+        "longitude": "-78.653503",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "368",
+        "latitude": "35.771507",
+        "longitude": "-78.766265",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "700",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "702",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "703",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "701",
+        "latitude": "35.812358856201172",
+        "longitude": "-78.424301147460938",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "412",
+        "latitude": "35.784271",
+        "longitude": "-78.60334",
+        "startTime": "7:20 AM",
+        "endTime": "2:35 PM"
+    },
+    {
+        "schoolCode": "428",
+        "latitude": "35.597961",
+        "longitude": "-78.79454",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "436",
+        "latitude": "35.710018",
+        "longitude": "-78.63739",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "441",
+        "latitude": "35.804748",
+        "longitude": "-78.86676",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "445",
+        "latitude": "35.940185",
+        "longitude": "-78.511001",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "455",
+        "latitude": "35.628902",
+        "longitude": "-78.848907",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "466",
+        "latitude": "35.810558",
+        "longitude": "-78.476669",
+        "startTime": "8:05 AM",
+        "endTime": "3:00 PM"
+    },
+    {
+        "schoolCode": "473",
+        "latitude": "35.924884796142578",
+        "longitude": "-78.711372375488281",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "495",
+        "latitude": "35.666770935058594",
+        "longitude": "-78.760543823242187",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "500",
+        "latitude": "35.865814",
+        "longitude": "-78.603004",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "526",
+        "latitude": "35.83023",
+        "longitude": "-78.888793",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "552",
+        "latitude": "35.861061",
+        "longitude": "-78.646492",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "562",
+        "latitude": "35.745365",
+        "longitude": "-78.604095",
+        "startTime": "7:25 AM",
+        "endTime": "2:30 PM"
+    },
+    {
+        "schoolCode": "583",
+        "latitude": "35.784538",
+        "longitude": "-78.585212",
+        "startTime": "7:25 AM",
+        "endTime": "2:20 PM"
+    },
+    {
+        "schoolCode": "588",
+        "latitude": "35.983741760253906",
+        "longitude": "-78.519767761230469",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "582",
+        "latitude": "35.813823699951172",
+        "longitude": "-78.722702026367188",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "595",
+        "latitude": "35.949835181236267",
+        "longitude": "-78.5704194009304",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "324",
+        "latitude": "35.785579",
+        "longitude": "-78.610023",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "528",
+        "latitude": "35.788208",
+        "longitude": "-78.616203",
+        "startTime": "7:25 AM",
+        "endTime": "2:18 PM"
+    },
+    {
+        "schoolCode": "438",
+        "latitude": "35.797546",
+        "longitude": "-78.558319",
+        "startTime": "7:30 AM",
+        "endTime": "1:50 PM"
+    },
+    {
+        "schoolCode": "508",
+        "latitude": "35.79092",
+        "longitude": "-78.719459",
+        "startTime": "8:30 AM",
+        "endTime": "2:50 PM"
+    }
+]
