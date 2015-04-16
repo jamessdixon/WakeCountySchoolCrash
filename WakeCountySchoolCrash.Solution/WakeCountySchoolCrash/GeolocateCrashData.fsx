@@ -25,6 +25,7 @@ let getCrashSiteLatLong(crashSite: CrashSite)=
         Some (latitude, longitude)
     with
           | :? System.IndexOutOfRangeException ->  None
+          | :? System.Net.WebException -> None
 
 //getCrashSiteLatLong {roadA="I 440";roadB="Wake Forest Road";city="Raleigh"}
 
